@@ -1,14 +1,7 @@
 
-#haal te theek a  tu dass kidan 
+def show(msg):
+    print(msg)
 
-print("hello world")
 
-print ("namaste ji") 
+show("manvir singh")
 
-#hello ji ki haal chaal 
-
-print("hello world")
-
-print("namaste")
-
-#new
